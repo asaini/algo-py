@@ -1,6 +1,6 @@
 # algo-py
 
-Compilation of algorithms implemented in Python for education/learning
+Compilation of algorithms/data-structures implemented in Python
 
 ### LICENSE 
 
@@ -38,3 +38,4 @@ Compilation of algorithms implemented in Python for education/learning
 
 * [Edit Distance](algos/edit_distance.py)
 * [Reverse Words](algos/reverse_words.py) in the string
+* [LRU Cache](algos/lru_cache.py)
